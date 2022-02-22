@@ -1,5 +1,4 @@
 # Evar.pytorch project
-Code was done by Itay Hubara in Pytorch framework 
 ## Abstract:
 Objectives: We sought to develop a prediction score with data from the Vascular Quality Initiative (VQI) EVAR in efforts to
 assist endovascular specialists in deciding whether or not a patient is appropriate for short-stay discharge. Background: Small
@@ -15,7 +14,8 @@ through QxMD Calculate https://qxcalc.app.link/vqidis. Conclusions: Selecting pa
 possible without increasing harm. The majority of infrarenal AAA patients treated with EVAR in the United States fit a risk profile
 consistent with short-stay discharge, representing a significant cost-savings potential to the healthcare system.
 Full paper can be found [here](https://journals.sagepub.com/doi/abs/10.1177/1538574420954299)
-
+##
+Code was done by Itay Hubara in Pytorch framework 
 ## Running the script 
 To run use:
 ```
