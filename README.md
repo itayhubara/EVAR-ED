@@ -14,7 +14,7 @@ patients may be appropriate for short-stay discharge. A free smart phone app cal
 through QxMD Calculate https://qxcalc.app.link/vqidis. Conclusions: Selecting patients for short-stay discharge after EVAR is
 possible without increasing harm. The majority of infrarenal AAA patients treated with EVAR in the United States fit a risk profile
 consistent with short-stay discharge, representing a significant cost-savings potential to the healthcare system.
-Full paper can be found [here])(https://journals.sagepub.com/doi/abs/10.1177/1538574420954299)
+Full paper can be found [here](https://journals.sagepub.com/doi/abs/10.1177/1538574420954299)
 
 ## Running the script 
 To run use:
